@@ -4,4 +4,4 @@ This Q learning agent is build in a pygame environment. The Q learning agent cod
 
 To run this code, first run the requirements.txt file and then run the main.py file.
 
-<video src="READMEcontent/PygameQlearner.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
+<video src="READMEcontent/PygameQlearner.mp4" height="200" controls preload></video>
