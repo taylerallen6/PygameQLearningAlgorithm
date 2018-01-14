@@ -15,6 +15,8 @@ To run this code, first install [python](https://www.python.org/downloads/) and 
 
 The Q learning agent is a reinforcement learning agent that learns to achieve a goal through recieving a reward. In this example, the agent recieves a positive reward of 50 points for each time it makes it to the green square and recieves a negative reward of -1 for each move it makes. It can only make 4 moves: up, down, left, and right. Once it makes it to the green square, it restarts to its original position and tries again, each time getting closer to the optimal path.
 
+(NOTE: It cannot "see" the green square or its surroundings. It is only aware of its x and y coordinates and the reward it recieves.)
+
 ## Q Learning Algorithm ##
 
 An detailed explanation of the Q learning algorithm can be found at [http://www.cse.unsw.edu.au/~cs9417ml/RL1/algorithms.html](http://www.cse.unsw.edu.au/~cs9417ml/RL1/algorithms.html) but here is short explaination from the article:
