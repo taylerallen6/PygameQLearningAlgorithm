@@ -5,7 +5,7 @@ This Q learning agent is built in a pygame environment. The Q learning agent cod
 ## Requiremnets: ##
 - [python](https://www.python.org/downloads/)
 - [pygame](https://www.pygame.org/)
-- files from in the repository.
+- files from this repository.
 
 To run this code, first install [python](https://www.python.org/downloads/) and [pygame](https://www.pygame.org/). Then clone or download this repository and run the [main.py](main.py) file in python. 
 
